@@ -9,6 +9,15 @@ wheels/
 
 # Virtual environments
 .venv
+env/
+
+# Editor files
+.vscode/
+
+# OS files
+.DS_Store
 
 # données 
 RealWaste/*
+
+uv.lock
