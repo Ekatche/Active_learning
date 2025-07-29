@@ -5,6 +5,10 @@ build/
 dist/
 wheels/
 *.egg-info
+Training/__pycache__/
+Training/models/
+Training/mlruns/
+Training/results/
 
 
 # Virtual environments
@@ -19,5 +23,6 @@ env/
 
 # données 
 RealWaste/*
+RealWaste_*
 
 uv.lock

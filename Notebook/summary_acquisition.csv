@@ -1,0 +1,4 @@
+Accuracy Threshold,max_entropy,bald,mean_std_acquisition,var_ratios
+0.6,180,180,180,180
+0.65,210,180,180,190
+0.7,310,280,280,290
