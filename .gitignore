@@ -24,5 +24,6 @@ env/
 # données 
 RealWaste/*
 RealWaste_*
+Garbage/*
 
 uv.lock
